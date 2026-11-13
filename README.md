@@ -3,7 +3,7 @@
 <br>
 
 <p>
-    <img src = "screenshots/Model.jpg", align="right", width = 325, hspace = 25 vspace = 15>
+    <img src = "screenshots/Model.jpg", align="right", width = 250, hspace = 25 vspace = 15>
 
 </p>
 
