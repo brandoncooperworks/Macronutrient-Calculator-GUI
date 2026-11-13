@@ -37,5 +37,5 @@ The GUI is a continuation of a macronutrient project done earlier in the year wh
 - The fields will create a "Food" object (Food.java) which has a field for each data field, and runs calculations to produce the number of calories from each field. It then generates a break down of the food's calories in proteins, carbs, and fats.
 - The food item is considered "lean" if the calories contain:
   - cals &le; 25% fats **and** cals &ge; 35% proteins **and** 30% &le; cals &le; 65% carbs
-  - _or_
+       <br>**_-or-_**<br>
   - cals &ge; 60% protein
