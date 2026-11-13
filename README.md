@@ -6,10 +6,11 @@
 <font size="4">
     <strong>Project for students taking AP Computer Science A.</strong>
 </font>
+<br>
 <font size = "3">
     Second-year programming students learn to code graphics in Java Swing.
 </font>
-
+<br>
 <br>
 <p align="justify">
 In 2023, I had a really motivated class of AP CSA students that had all performed very well the year before in AP CS Principles in Python. After going over all of the logic in Java, I created this walkthrough project in Java Swing for them to get experience with building a graphic user interface and managing multiple files and folders. They would later be given project to create a GUI project of their own.
@@ -18,7 +19,7 @@ The GUI is a continuation of a macronutrient project done earlier in the year wh
 </p>
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## What Is Learned:
 
