@@ -1,6 +1,6 @@
 # Macronutrient Calculator GUI Project - Java Swing
 
-<img src = "screenshots/Model.jpg" align="right" width = 400 hspace = 10>
+<img src = "screenshots/Model.jpg" align="right" width = 400 hspace = 10 vspace = 15>
 
 
 <font size="4">
